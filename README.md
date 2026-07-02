@@ -31,11 +31,11 @@ Contáctame en: <a href="mailto:rasecanglas01@gmail.com">rasecanglas01@gmail.com
 <div>
    <h3>Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind&theme=light" />
   </a>
   <h3>Backend</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,hibernate,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,docker&theme=light" />
   </a>
    <h3>AI Engineering</h3>
     <a href="https://skillicons.dev">
