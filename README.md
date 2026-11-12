@@ -1,7 +1,9 @@
 <h1 align="center"><b>Hola , Soy Cesar Aquino </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&vCenter=true&width=435&lines=Dise%C3%B1ador+y+Programador+Web" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Oregano&color=7627F5&size=22&pause=1000&vCenter=true&center=true&width=300&lines=Dise%C3%B1ador+y+Programador+Web" alt="Typing SVG" />
+</a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
@@ -16,47 +18,15 @@ Contáctame en: <a href="mailto:rasecanglas01@gmail.com">rasecanglas01@gmail.com
   Estudios
 </h2>
 
-
-
 **IESTP Santiago Antunez de Mayolo** <br/>
 🎓 Diseño y Programación Web<br/>
 📅 2024 – Actualmente <br/>
 ⏳ En curso.  
 
 
-
-
-<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
-
-<div>
-   <h3>Frontend</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind&theme=light" />
-  </a>
-  <h3>Backend</h3>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,docker&theme=light" />
-  </a>
-   <h3>AI Engineering</h3>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,supabase,bots&theme=light" />
-  </a>
-    <h3>Tools</h3>
-     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
-  </a>
-  </div>
-
-
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estadísticas de GitHub:</h2>  
-
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=rasechub&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20Reyna" height="250"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasechub&theme=material-palenight" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasechub&layout=compact&theme=tokyonight&hide_border=false" height="250" />
-
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="MasterHead" />
 </div>
-
 
 Credits: [Rasec](https://github.com/rasechub)<br/>
 Last Edited on: 21/06/2026
